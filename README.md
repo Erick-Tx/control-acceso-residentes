@@ -65,3 +65,24 @@ npm start
 
 La aplicación estará disponible en http://localhost:3000 y el servidor backend en http://localhost:5000.
 
+## Vista Previa
+
+### 1. Registro de Residentes:
+![Registro de Residente](preview/registro.png)
+
+### 2. Autenticación:
+![Login](preview/login.png)
+
+### 3. Control de Acceso:
+![Control de Acceso](preview/visita.png)
+
+### 4. Estadísticas:
+![Estadistica](preview/estadistica.png)
+
+### 5. Almacenamiento de información en base de datos
+
+### Residentes
+![Residente base](preview/base_residente.png)
+
+### Visitas
+![Visita Base](preview/base_visita.png)
