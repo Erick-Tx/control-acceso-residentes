@@ -1,0 +1,25 @@
+/* src/styles/Menu.css */
+nav {
+    background-color: #333;
+    padding: 1rem;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  li {
+    color: white;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
